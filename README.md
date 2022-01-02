@@ -1,10 +1,10 @@
-# Airbnb Extended 🧳
+# Airbnb Sanity 🧳
 
 <sup>Coming soon to the Chrome Webstore!</sup>
 
-**Chrome extension to hide listings on Airbnb.**
+**Chrome extension to hide Airbnb listings you don't like.**
 
-Tired of looking at the same Airbnb listing for the 5th time? Just hide it from all future search results! This extension adds a small button to each listing that lets you hide it. Preserved across reruns, navigating between pages, changing the map, etc.
+Tired of looking through the same Airbnb listing for the fifth time, trying to remember what was bad? Just hide it from all search results! This extension adds a small button to each listing in Airbnb's search results, which lets you hide it. Preserved across reruns, navigating between pages, changing the map, etc.
 
 <!--
 
@@ -16,7 +16,7 @@ Tired of looking at the same Airbnb listing for the 5th time? Just hide it from 
 ---
 
 <p align="center">
-    <a href="https://github.com/jrieke/airbnb-extended"><img src="images/screenshot.png" width=600></a>
+    <a href="https://github.com/jrieke/airbnb-sanity"><img src="images/screenshot.png" width=600></a>
 </p>
 
 ## Usage
