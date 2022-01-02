@@ -1,6 +1,6 @@
 {
-  "name": "Airbnb Extended",
-  "description": "Supercharge Airbnb by hiding listings you don't like.",
+  "name": "Airbnb Sanity",
+  "description": "Hide Airbnb listings you don't like (instead of looking through them five times trying to remember what was bad).",
   "version": "0.1.1",
   "manifest_version": 3,
   "content_scripts": [
