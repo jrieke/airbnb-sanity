@@ -1,0 +1,20 @@
+{
+  "name": "Airbnb Extended",
+  "description": "Supercharge Airbnb by hiding listings you don't like.",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["http://www.airbnb.com/s/*", "https://www.airbnb.com/s/*"],
+      "js": ["modify.js"]
+    }
+  ],
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icons/icon16.png",
+    "24": "icons/icon24.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
