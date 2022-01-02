@@ -5,7 +5,7 @@
   "manifest_version": 3,
   "content_scripts": [
     {
-      "matches": ["http://www.airbnb.com/s/*", "https://www.airbnb.com/s/*"],
+      "matches": ["http://www.airbnb.com/*", "https://www.airbnb.com/*"],
       "js": ["modify.js"]
     }
   ],
