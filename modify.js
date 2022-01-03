@@ -3,6 +3,8 @@ function hide(group_div) {
   group_div.style.height = "45px";
   group_div.childNodes[1].style.display = "none";
   group_div.childNodes[2].style.height = "45px";
+  // group_div.childNodes[2].childNodes[0].childNodes[0].childNodes[0].style.display =
+  //   "none";
   group_div.childNodes[2].childNodes[1].style.display = "none";
   group_div.childNodes[2].childNodes[2].style.display = "none";
   group_div.childNodes[2].childNodes[3].style.display = "none";
@@ -22,6 +24,8 @@ function show(group_div) {
   group_div.style.height = null;
   group_div.childNodes[1].style.display = null;
   group_div.childNodes[2].style.height = null;
+  // group_div.childNodes[2].childNodes[0].childNodes[0].childNodes[0].style.display =
+  //   null;
   group_div.childNodes[2].childNodes[1].style.display = null;
   group_div.childNodes[2].childNodes[2].style.display = null;
   group_div.childNodes[2].childNodes[3].style.display = null;
