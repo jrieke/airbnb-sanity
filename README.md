@@ -1,6 +1,6 @@
 # Airbnb Sanity 🧳
 
-<sup>Coming soon to the Chrome Webstore!</sup>
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/llhacdfeohoajoacfiiolfhopfbnmhgc)](https://chrome.google.com/webstore/detail/airbnb-sanity/llhacdfeohoajoacfiiolfhopfbnmhgc)
 
 **Chrome extension to hide Airbnb listings you don't like.**
 
