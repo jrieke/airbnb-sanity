@@ -21,7 +21,7 @@ Tired of looking through the same Airbnb listing for the fifth time, trying to r
 
 ## Usage
 
-Soon on the Chrome web store! Just install it and search on Airbnb. The extension will automatically add some buttons to hide listings.
+Install from the [Chrome web store](https://chrome.google.com/webstore/detail/airbnb-sanity/llhacdfeohoajoacfiiolfhopfbnmhgc).  Search for listings on Airbnb. The extension will automatically add a button to each listing to hide it.
 
 ## Development
 
