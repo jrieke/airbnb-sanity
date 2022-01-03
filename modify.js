@@ -130,4 +130,4 @@ function main() {
 // Run the main function every few seconds.
 // This ensures that listings are processed when you switch a page, change the map, etc
 // (these events don't trigger a reload!),
-setInterval(main, 3000);
+setInterval(main, 2000);
