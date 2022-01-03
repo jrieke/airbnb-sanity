@@ -4,7 +4,7 @@
 
 **Chrome extension to hide Airbnb listings you don't like.**
 
-Tired of looking through the same Airbnb listing for the fifth time, trying to remember what was bad? Just hide it from all search results! This extension adds a small button to each listing in Airbnb's search results, which lets you hide it. Preserved across reruns, navigating between pages, changing the map, etc.
+Tired of looking through the same Airbnb listing for the fifth time, trying to remember if you liked it or not? Just hide it from all search results! This extension adds a small button to each listing in Airbnb's search results, which lets you hide it. Preserved across reruns, navigating between pages, changing the map, etc.
 
 ---
 
