@@ -6,12 +6,11 @@
 
 Tired of looking through the same Airbnb listing for the fifth time, trying to remember what was bad? Just hide it from all search results! This extension adds a small button to each listing in Airbnb's search results, which lets you hide it. Preserved across reruns, navigating between pages, changing the map, etc.
 
-<!--
+---
 
 <h3 align="center">
-  🎉 <a href="https://github.com/jrieke/readme-template">Try it out</a> 🎉
+  📥 <a href="https://chrome.google.com/webstore/detail/airbnb-sanity/llhacdfeohoajoacfiiolfhopfbnmhgc">Add to Chrome</a> 📥
 </h3>
--->
 
 ---
 
@@ -21,7 +20,7 @@ Tired of looking through the same Airbnb listing for the fifth time, trying to r
 
 ## Usage
 
-Install from the [Chrome web store](https://chrome.google.com/webstore/detail/airbnb-sanity/llhacdfeohoajoacfiiolfhopfbnmhgc).  Search for listings on Airbnb. The extension will automatically add a button to each listing to hide it.
+Install from the [Chrome web store](https://chrome.google.com/webstore/detail/airbnb-sanity/llhacdfeohoajoacfiiolfhopfbnmhgc). Search for listings on Airbnb. The extension will automatically add a button to each listing to hide it.
 
 ## Development
 
