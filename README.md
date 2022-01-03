@@ -15,7 +15,7 @@ Tired of looking through the same Airbnb listing for the fifth time, trying to r
 ---
 
 <p align="center">
-    <a href="https://github.com/jrieke/airbnb-sanity"><img src="images/screenshot.png" width=600></a>
+    <a href="https://chrome.google.com/webstore/detail/airbnb-sanity/llhacdfeohoajoacfiiolfhopfbnmhgc"><img src="images/screenshot.png" width=600></a>
 </p>
 
 ## Usage
